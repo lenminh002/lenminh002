@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a Computer Science student passionate about becoming an AI Engineer. I am deeply committed to learning artificial intelligence and turning it into practical, real-world applications.
 
 <!--
 **lenminh002/lenminh002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
