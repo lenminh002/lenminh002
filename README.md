@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student aspiring to become an AI Engineer. I am passionate about learning both the theory and practical applications of artificial intelligence. My goal is to orchestrate and integrate AI agents into real-world software systems and eventually build my own AI systems.
+I'm a Computer Science student aspiring to become an AI Engineer, passionate about both the theory and practical applications of artificial intelligence. My goal is to design, orchestrate, and integrate intelligent agent systems embedded in real-world applications that make everyday tasks feel simpler, smarter, and more efficient.
 
 
 ## 🌐 Socials:
