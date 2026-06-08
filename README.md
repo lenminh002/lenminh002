@@ -27,15 +27,6 @@ I enjoy learning both the **theory** and **practical applications** of artificia
 
 My goal is to design, orchestrate, and integrate **intelligent agent systems** that make everyday tasks feel simpler, smarter, and more efficient.
 
----
-
-## 🚀 What I'm Focused On
-
-- 🤖 Building AI-powered applications
-- 🧠 Learning AI theory and model behavior
-- 🛠️ Developing full-stack projects
-- 🔗 Exploring AI agents, tool use, and orchestration
-- 📚 Improving my skills in software engineering and system design
 
 ---
 
