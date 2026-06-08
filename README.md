@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student aspiring to become an AI Engineer, passionate about both the theory and practical applications of artificial intelligence. My goal is to design, orchestrate, and integrate intelligent agent systems embedded in real-world applications that make everyday tasks feel simpler, smarter, and more efficient.
-
+I'm a Computer Science student aspiring to become an AI Engineer. I'm passionate about learning about both the theory and practical applications of artificial intelligence. In addition, I love to build full-stack apps. My goal is to design, orchestrate, and integrate intelligent agent systems embedded in real-world applications that make everyday tasks feel simpler, smarter, and more efficient.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minh-le-1b09a038b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lenminh2007@gmail.com) 
