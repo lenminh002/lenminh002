@@ -11,6 +11,9 @@
   <a href="mailto:lenminh2007@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://ko-fi.com/lenminh002">
+    <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
+  </a>
 </p>
 
 </div>
