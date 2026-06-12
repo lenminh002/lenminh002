@@ -24,7 +24,7 @@
 
 I'm a **Computer Science student** aspiring to become an **AI Engineer**.
 
-I enjoy learning both the **theory** and **practical applications** of artificial intelligence. I also love building **full-stack apps** and experimenting with how AI agents can be integrated into real-world software.
+I enjoy learning both the **theory** and **practical applications** of artificial intelligence. I also love building **full-stack apps** and experimenting with how AI agents can be integrated into software.
 
 My goal is to design, orchestrate, and integrate **intelligent agent systems** that make everyday tasks feel simpler, smarter, and more efficient.
 
