@@ -57,31 +57,15 @@ My goal is to design, orchestrate, and integrate **intelligent agent systems** t
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img 
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=lenminh002&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=86400" 
-  height="170" 
-/>
-
-<img 
-  src="https://github-readme-stats.shion.dev/api?username=lenminh002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" 
-  height="170" 
-/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lenminh002&theme=tokyonight&hide_border=false" />
-
+<table>
+<tr>
+<td align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lenminh002&theme=tokyonight&hide_border=false&layout=compact&langs_count=6&card_width=495&cache_seconds=86400" width="600" height="205" /></td>
+<td align="center"><img src="https://github-readme-stats.shion.dev/api?username=lenminh002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" width="485" height="205" /></td>
+</tr>
+</table>
 </div>
 
 ---
